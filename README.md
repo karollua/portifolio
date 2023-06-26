@@ -1,2 +1,2 @@
 # portifolio
-este repositorio e o meu portifolio
+este repositorio é o meu portifolio
