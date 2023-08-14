@@ -1,2 +1,2 @@
 # portifolio
-este repositorio é o meu portifolio
+meu nome:karol andrade tenho 17 anos.
